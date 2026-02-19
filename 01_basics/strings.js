@@ -62,8 +62,8 @@ const age =21
 
 // console.log (((Math.random()*10)+1) +10)
 
-const xs=10
-const xy = 20
- console.log(Math.floor(Math.random()*(xy-xs +1)+xs))
+// const xs=10
+// const xy = 20
+//  console.log(Math.floor(Math.random()*(xy-xs +1)+xs))
 
- console.log (Math.random())
+//  console.log (Math.random())
