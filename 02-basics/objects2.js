@@ -1,7 +1,4 @@
-const user={}
-user.nmae="altaf"
-user.position="senoir tech manager"
-user.age=29
+
 // console.log (user)
 
 // const user2 = {
@@ -35,8 +32,44 @@ user.age=29
 // console.log (obj5)
 // console.log (obj5===obj1)
 
-console.log (user)
+// console.log (user)
+// console.log (Object.keys(user))
+// console.log (Object.values(user))
+// console.log (Object.entries(user))
+
+const eg = [
+    {
+        id:1,
+        email:"virat@gmail.com"
+    },
+    {
+        id:2,
+        email:"kohli@gmail.com"
+    }
+]
+console.log(eg[0]["email"])
+console.log (eg)
+
+// console.log (Object.keys(user))
+// console.log (Object.values(user))
+// console.log (Object.entries(user))
+// console.log (user.hasOwnProperty("age"))
+// console.log (user.hasOwnProperty("name"))
+
+
+const user={}
+user.name="altaf"
+user.position="senoir tech manager"
+user.age=29
+
 console.log (Object.keys(user))
 console.log (Object.values(user))
 console.log (Object.entries(user))
+console.log (user.hasOwnProperty("age"))
+console.log (user.hasOwnProperty("position"))
+console.log (user.hasOwnProperty("altaf"))
+
+
+
+
 

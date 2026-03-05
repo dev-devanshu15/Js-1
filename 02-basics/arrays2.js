@@ -25,11 +25,11 @@
 // let score3=300
 
 // console.log (Array.of(score1,score2,score3))
+ 
 
-
-// console.log (Array.isArray("devanshu"))
-// console.log (Array.from("devanshu"))
-// console.log (Array.from({name:"altaf miya"}))
+ console.log (Array.isArray("devanshu"))
+ console.log (Array.from("devanshu"))
+ console.log (Array.from({name:"altaf miya"}))
 
 
 const user ={"devas_juj": "yash"}

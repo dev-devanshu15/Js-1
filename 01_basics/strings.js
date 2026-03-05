@@ -38,11 +38,11 @@ const age =21
 //Split
 // console.log (email.split('a'))
 
-// const balance=new Number(100)
-// console.log (balance)
-// console.log (balance.toString())
-// console.log (balance.toString().length)
-// console.log (balance.toFixed(1))
+ const balance=new Number(100)
+ console.log (balance)
+ console.log (balance.toString())
+ console.log (balance.toString().length)
+ console.log (balance.toFixed(1))
 
 //toPrecision
 // const order = 120.788

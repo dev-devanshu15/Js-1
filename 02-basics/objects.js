@@ -31,5 +31,6 @@ user1.greeting = function(){
 user1.greeting2 = function(){
     console.log (`Hello JS user ${this.name}`)
 }
-console.log (user1.greeting())
-console.log (user1.greeting2())
+ console.log (user1.greeting())
+// console.log (user1.greeting2())
+console.log (user1)
